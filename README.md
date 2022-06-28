@@ -77,7 +77,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### :keyboard: Activity: Edit your file with headers
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab. Practice.
+1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab. 
 1. Open the **pull requests** tab.
 1. Open the pull request we made for you.
 1. In this pull request, go to the **Files changed** tab.
